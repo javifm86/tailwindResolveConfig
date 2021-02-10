@@ -1,0 +1,22 @@
+{
+  "name": "tailwindresolveconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javifm86/tailwindResolveConfig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javifm86/tailwindResolveConfig/issues"
+  },
+  "homepage": "https://github.com/javifm86/tailwindResolveConfig#readme",
+  "dependencies": {
+    "tailwindcss": "^2.0.3"
+  }
+}
